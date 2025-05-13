@@ -5,7 +5,7 @@ const data = {
             "name": "Women 1",
             "category": "Dresses",
             "brand": "Unknown",
-            "rating": 4.5,
+            "rating": 1.5,
             "numReviews": 10,
             "description": "Description for Women 1",
             "price": 19.99,
