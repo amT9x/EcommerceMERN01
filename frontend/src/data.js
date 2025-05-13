@@ -19,7 +19,7 @@ const data = {
             "rating": 4.5,
             "numReviews": 10,
             "description": "Description for Women 2",
-            "price": 29.99,
+            "price": 39.99,
             "image": "/images/p2.jpg"
         },
         {
@@ -68,3 +68,5 @@ const data = {
         },
     ]
 }
+
+export default data;
