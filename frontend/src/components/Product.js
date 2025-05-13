@@ -1,4 +1,5 @@
 import React from "react";
+import Rating from "./Rating";
 
 export default function Product({ pros }) {
     const { product } = pros;
@@ -13,26 +14,7 @@ export default function Product({ pros }) {
                     <h2>{product.name}</h2>
                   </a>
                   {/* <!-- rating --> */}
-                  <div className="rating">
-                    <span>
-                      <i className="fa fa-star"></i>
-                    </span>
-                    <span>
-                      <i className="fa fa-star"></i>
-                    </span>
-                    <span>
-                      <i className="fa fa-star"></i>
-                    </span>
-                    <span>
-                      <i className="fa fa-star"></i>
-                    </span>
-                    <span>
-                      <i className="fa fa-star"></i>
-                    </span>
-                    <span>
-                      <i className="fa fa-star"></i>
-                    </span>
-                  </div>
+                  <Rating rating={product.rating} numReviews={product.numReviews} />
                   {/* <!-- price --> */}
                   <div className="price">${product.price}</div>
                 </div>
