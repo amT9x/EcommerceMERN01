@@ -6,11 +6,11 @@ function App() {
       {/* <!-- header --> */}
       <header className="row">
         <div>
-          <a className="brand" href="index.html">Ecommerce</a>
+          <a className="brand" href="/">Ecommerce</a>
         </div>
         <div>
-          <a href="cart.html">Cart</a>
-          <a href="singin.html">Sign In</a>
+          <a href="/cart">Cart</a>
+          <a href="/singin">Sign In</a>
         </div>
       </header>
       {/* <!-- main --> */}
