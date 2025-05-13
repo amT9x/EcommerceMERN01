@@ -8,7 +8,7 @@ const data = {
             "rating": 4.5,
             "numReviews": 10,
             "description": "Description for Women 1",
-            "price": 29.99,
+            "price": 19.99,
             "image": "/images/p1.jpg"
         },
         {
@@ -19,7 +19,7 @@ const data = {
             "rating": 4.5,
             "numReviews": 10,
             "description": "Description for Women 2",
-            "price": 39.99,
+            "price": 29.99,
             "image": "/images/p2.jpg"
         },
         {
@@ -30,7 +30,7 @@ const data = {
             "rating": 4.5,
             "numReviews": 10,
             "description": "Description for Women 3",
-            "price": 29.99,
+            "price": 39.99,
             "image": "/images/p3.jpg"
         },
         {
@@ -41,7 +41,7 @@ const data = {
             "rating": 4.5,
             "numReviews": 10,
             "description": "Description for Women 4",
-            "price": 29.99,
+            "price": 49.99,
             "image": "/images/p4.jpg"
         },
         {
@@ -52,7 +52,7 @@ const data = {
             "rating": 4.5,
             "numReviews": 10,
             "description": "Description for Women 5",
-            "price": 29.99,
+            "price": 59.99,
             "image": "/images/p5.jpg"
         },
         {
@@ -63,7 +63,7 @@ const data = {
             "rating": 4.5,
             "numReviews": 10,
             "description": "Description for Women 6",
-            "price": 29.99,
+            "price": 69.99,
             "image": "/images/p6.jpg"
         },
     ]
